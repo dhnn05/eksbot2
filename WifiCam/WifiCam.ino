@@ -1,7 +1,7 @@
 #include <WebServer.h>
 #include <WiFi.h>
 #include <esp32cam.h>
- 
+ //halo
 const char* WIFI_SSID = "iPhone";
 const char* WIFI_PASS = "1234567899";
  
